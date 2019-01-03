@@ -9,8 +9,9 @@ After installing the module, do the following:
 - delete data from the "Calendar";
 - after that start the calendar, which will start updating the data on holidays.
 
-Tested on Xiaomi Redmi 5 Plus (MiuiPro 10 | 8.12.20)
 Holiday Source https://egov.kz/cms/ru/articles/holidays-calend
+
+Tested on Xiaomi Redmi 5 Plus (MiuiPro 10 | 8.12.20)
 ---
 ### Маленький модуль в котором праздничные дни заменены Казахстанскими праздниками на MIUI 10 vince
 
@@ -22,7 +23,10 @@ Holiday Source https://egov.kz/cms/ru/articles/holidays-calend
 - удалить данные с "Календаря";
 - после этого запустить календарь, в котором начнется обновление данных о праздничных днях.
 
-Проверено на Xiaomi Redmi 5 Plus (MiuiPro 10 | 8.9.20)
 Источних данных о праздниках РК https://egov.kz/cms/ru/articles/holidays-calend
+
+Проверено на Xiaomi Redmi 5 Plus (MiuiPro 10 | 8.9.20)
 ---
-![screenshot](https://github.com/daradan/img/raw/master/navbar_height_miui10.jpg)
+![screenshot](https://github.com/daradan/img/raw/master/miui10_holiday_kz_001.jpg)
+![screenshot](https://github.com/daradan/img/raw/master/miui10_holiday_kz_002.jpg)
+![screenshot](https://github.com/daradan/img/raw/master/miui10_holiday_kz_003.jpg)
